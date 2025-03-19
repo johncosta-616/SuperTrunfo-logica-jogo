@@ -1,12 +1,12 @@
 # SuperTrunfo-logica-jogo
 
-*** INTRUÇÕES PARA "SuperTrunfo-logica-jogo" ***
+*** INTRUÇÕES PARA "SuperTrunfo-logica-jogo" ***<br>
 
-1-No começo do jogo, o jogador poderá fazer a entrada dos dados da carta 1, e posterioemtne da carta 2
-2-Você deve respeitar o que cada questão pede, não podendo colocar letras em espaços onde se pede números, nem números em espaços onde se solicita letras ou nomes. A fim de contribuiur
-  para que o código seja executado devidamente. 
-  Exemplo:
-    "Escolha um número entre '01-04':"
+1-No começo do jogo, o jogador poderá fazer a entrada dos dados da carta 1, e posterioemtne da carta 2<br>
+2-Você deve respeitar o que cada questão pede, não podendo colocar letras em espaços onde se pede números, nem números em espaços onde se solicita letras ou nomes. A fim de contribuiur<br>
+  para que o código seja executado devidamente. <br>
+  Exemplo:<br>
+    "Escolha um número entre '01-04':"<br>
      "01", ou "02", ou"03", ou "04"
 3-Após a entrada de todos os dados, será calculado e apresentado na tela os atributos "densidade populacional" "pib per capto" "super poder da carta"
 4-Após isso, poderemos chegar na melhor parte do jogo: a batalha !! será apresentado na tela 5 atributos que poderemos utilizar para fazer com que as duas cartas duelem entre si
