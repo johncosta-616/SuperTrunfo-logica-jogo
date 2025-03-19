@@ -2,7 +2,7 @@
 
 <strong><h2> *** INTRUÇÕES PARA "SuperTrunfo-logica-jogo" ***<br> </h2></strong>
 
-1-No começo do jogo, o jogador poderá fazer a entrada dos dados da carta 1, e posterioemtne da carta 2<br>
+1-No começo do jogo, o jogador poderá fazer a entrada dos dados da carta 1, e posteriomente da carta 2<br>
 <br>
 2-Você deve respeitar o que cada questão pede, não podendo colocar letras em espaços onde se pede números, nem números em espaços onde se solicita letras ou nomes. A fim de contribuiur
   para que o código seja executado devidamente. Exemplo:<br>
@@ -11,8 +11,8 @@
      <br>
 3-Após a entrada de todos os dados, será calculado e apresentado na tela os atributos "densidade populacional" "pib per capto" "super poder da carta" <br>
 <br>
-4-Após isso, poderemos chegar na melhor parte do jogo: a batalha !! será apresentado na tela 5 atributos que poderemos utilizar para fazer com que as duas cartas duelem entre si <br><br>
- poderemos escolher qual atributo você deseja usar através do menu interativo, podendo usar números de 1-5 para escolher o atributo que desejamos (o número está ao lado do nome do atributo)
+4-Após isso, poderemos chegar na melhor parte do jogo: a batalha !! será apresentado na tela 5 atributos que você deseja utilizar para fazer com que as duas cartas duelem entre si. <br><br>
+ Você escolher qual atributo você deseja usar através do menu interativo, podendo usar números de 1-5 para escolher o atributo que desejamos (o número está ao lado do nome do atributo)
 <br><br>
 5-Você poderá escolher um desses atributos, e ele será usado para o combate <br>
 (atributos que podem ser usados: população, área, pib, densidade populacional e quantidade de pontos turísticicos)
