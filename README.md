@@ -1,6 +1,6 @@
 # SuperTrunfo-logica-jogo
 
-*** INTRUÇÕES PARA "SuperTrunfo-logica-jogo" ***<br>
+<strong><h2> *** INTRUÇÕES PARA "SuperTrunfo-logica-jogo" ***<br> </h2></strong>
 
 1-No começo do jogo, o jogador poderá fazer a entrada dos dados da carta 1, e posterioemtne da carta 2<br>
 <br>
