@@ -12,7 +12,7 @@
 4-Após isso, poderemos chegar na melhor parte do jogo: a batalha !! será apresentado na tela 5 atributos que poderemos utilizar para fazer com que as duas cartas duelem entre si
 5-Você poderá escolher um desses atributos, e ele será usado para o combate
 6-Após escolher o atributo e dar enter, será apresentado na tela os nomes das duas cidades, o nome do atributo utilizado , e o valor do atributo das duas cartas, e logo em seguida, qual das duas ganhou 
-7-Em caso de empate, aparecerá uma mensagem dizendo que as duas cidades possuem quantidades do atributo "x" equivalentes. 
+7-Em caso de empate, aparecerá uma mensagem dizendo que as duas cidades possuem quantidades do atributo "x" equivalentes.
 
   
      
