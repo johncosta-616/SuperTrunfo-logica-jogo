@@ -14,6 +14,7 @@
 4-Após isso, poderemos chegar na melhor parte do jogo: a batalha !! será apresentado na tela 5 atributos que poderemos utilizar para fazer com que as duas cartas duelem entre si <br>
 <br>
 5-Você poderá escolher um desses atributos, e ele será usado para o combate <br>
+(atributos que podem ser usados: população, área, pib, densidade populacional e quantidade de pontos turísticicos)
 <br>
 6-Após escolher o atributo e dar enter, será apresentado na tela os nomes das duas cidades, o nome do atributo utilizado , e o valor do atributo das duas cartas, e logo em seguida, qual das duas ganhou  <br>
 <br>
